@@ -1,0 +1,62 @@
+[
+  {
+    "title": "halab restaurant",
+    "rating": "4.3",
+    "offer": "10",
+    "address": "Baxtyari, Erbil",
+    "timing": "11am to 11pm",
+    "map": "https://goo.gl/maps/aKrv4huksLdJ6VML6",
+    "desc": "Mexican, Fast Food, Wraps, Beverages",
+    "imageUrl": "https://cdn.pixabay.com/photo/2015/11/19/10/38/food-1050813_960_720.jpg"
+  },
+  {
+    "title": "Adil restaurant",
+    "rating": "3.8",
+    "offer": "10",
+    "address": "Naz Naz, Erbil",
+    "timing": "11am to 11pm",
+    "map": "https://goo.gl/maps/kAHomNrs4pDKfFCZA",
+    "desc": "Mexican, Fast Food, Wraps, Beverages",
+    "imageUrl": "https://cdn.pixabay.com/photo/2016/11/29/05/07/breads-1867459_960_720.jpg"
+  },
+  {
+    "title": "Plane Café",
+    "rating": "4.2",
+    "offer": "10",
+    "address": "Ghazali, Erbil",
+    "timing": "11am to 11pm",
+    "map": "https://goo.gl/maps/ZhXh5thsqXQVbUd1A",
+    "desc": "Seafood, Continental, Mediterranean, Kerala, South Indian",
+    "imageUrl": "https://cdn.pixabay.com/photo/2017/11/09/13/23/food-2933528_960_720.jpg"
+  },
+  {
+    "title": "Pablo artesian cafe",
+    "rating": "4.5",
+    "offer": "10",
+    "address": "Empire, Erbil",
+    "timing": "11am to 11pm",
+    "map": "https://goo.gl/maps/RtJKoKi2RYEC7u6r9",
+    "desc": "Cafe, European, Fast Food, Beverages",
+    "imageUrl": "https://cdn.pixabay.com/photo/2014/04/05/11/27/buffet-315691_960_720.jpg"
+  },
+  {
+    "title": "Tche Tche",
+    "rating": "3.6",
+    "offer": "10",
+    "address": "MRF, Erbil",
+    "timing": "11am to 11pm",
+    "map": "https://goo.gl/maps/oEK2DvVEEfV9QDBW6",
+    "desc": "Continental, Chinese, North Indian, South Indian, Kerala",
+    "imageUrl": "https://cdn.pixabay.com/photo/2016/06/26/22/45/india-1481495_960_720.jpg"
+  },
+  {
+    "title": "Bus cafe",
+    "rating": "3.2",
+    "offer": "10",
+    "address": "ghazali, Kochi",
+    "timing": "11am to 11pm",
+    "map": "https://goo.gl/maps/xJwVX16txrV5FuNX7",
+    "desc": "Mexican, Fast Food, Wraps, Beverages",
+    "imageUrl": "https://cdn.pixabay.com/photo/2015/01/31/00/24/dinner-618083_960_720.jpg"
+  }
+]
