@@ -1,0 +1,44 @@
+[
+  {
+    "code": "AMAZON",
+    "title": "Get 50% cashback using Amazon Pay wallet",
+    "desc": "Maximum cashback up to $120",
+    "available": true,
+    "imageUrl": "https://pmjsankar.github.io/api/img/apay.jpg"
+  },
+  {
+    "code": "DIET",
+    "title": "Get 40% off using bank debit cards",
+    "desc": "Maximum cashback up to $100",
+    "available": true,
+    "imageUrl": "https://pmjsankar.github.io/api/img/hdfc.jpg"
+  },
+  {
+    "code": "KIDS",
+    "title": "Get 60% off using Apple Pay",
+    "desc": "Valid on total value of items worth $149",
+    "available": true,
+    "imageUrl": "https://pmjsankar.github.io/api/img/icici.png"
+  },
+  {
+    "code": "TALABAT",
+    "title": "Get 30% cashback up to $40 using FastPay",
+    "desc": "Valid on total value of items worth $149",
+    "available": true,
+    "imageUrl": "https://pmjsankar.github.io/api/img/paytm.png"
+  },
+  {
+    "code": "WELCOMEBACK",
+    "title": "Get 40% cashback up to $75 using Google pay",
+    "desc": "Valid on orders above $199",
+    "available": true,
+    "imageUrl": "https://pmjsankar.github.io/api/img/gpay.png"
+  },
+  {
+    "code": "SUMMERTREAT",
+    "title": "Get 60% cashback up to $60 using NassWallet",
+    "desc": "Valid on select restaurants",
+    "available": false,
+    "imageUrl": "https://pmjsankar.github.io/api/img/mobikwik.webp"
+  }
+]
